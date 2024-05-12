@@ -1,8 +1,7 @@
 
-
-![Frond-End Developer](https://kodmek.com/wp-content/uploads/2021/01/front-end-developer-1600x900-1.jpg)
 ### Hi there 👋, Ebrahim Jhohan Shuvo
 #### Frond-End Developer
+![Frond-End Developer](https://i1.wp.com/tolustar.com/wp-content/uploads/2020/02/Front-end-Development.jpeg?fit=750%2C422&ssl=1)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
